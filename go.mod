@@ -1,3 +1,3 @@
-module Dealer
+module dealer
 
 go 1.21
